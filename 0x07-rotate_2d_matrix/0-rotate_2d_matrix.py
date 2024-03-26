@@ -3,7 +3,6 @@
 This is a Rotate a 2D matrix by 90 degrees (clockwise).
 """
 
-
 def rotate_2d_matrix(matrix):
     """
     This Rotates a 2D matrix by 90 degrees (clockwise).
