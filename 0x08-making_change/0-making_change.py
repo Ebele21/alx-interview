@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 When given a pile of coins of different values, this determines the fewest
-number of coins needed to meet a given amount total.
+number of coins needed to meet a given amount total .
 """
 
 
