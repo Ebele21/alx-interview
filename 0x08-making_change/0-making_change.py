@@ -1,13 +1,13 @@
 #!/usr/bin/python3
 """
-Given a pile of coins of different values, determine the fewest
+When given a pile of coins of different values, this determines the fewest
 number of coins needed to meet a given amount total.
 """
 
 
 def makeChange(coins, total):
     """
-    Determines the fewest
+    It Determines the fewest
     number of coins needed to meet a given amount total.
     """
     sum = 0
