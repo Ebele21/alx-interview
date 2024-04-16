@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""0. Prime Game - Maria and Ben are playing a game"""
+"""This is Prime Game """
 
 
 def isWinner(x, nums):
