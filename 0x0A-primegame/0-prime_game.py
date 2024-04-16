@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This is Prime Game """
+"""Prime Game  leverage your understanding of prime numbers"""
 
 
 def isWinner(x, nums):
